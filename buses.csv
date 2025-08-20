@@ -1,0 +1,79 @@
+ ID_BUS,destino,hora,minutos,nombre
+AB-435CD,Petare,10,15,PedroPerez
+AB-435CD,Dos Caminos,12,0,Juan Vasquez
+AB-435CD,Dos Caminos,15,30,Juan Vasquez
+AB-435CD,Dos Caminos,17,0,Juan Vasquez
+CV-12356,Propatria,9,0,Luis Garcia
+CV-12360,Ave Sucre,11,0,Alberto Leon
+CV-12461,La Pastora,15,0,Juan Bolivar
+CV-12462,Sarria,10,0,Jairo Gimenez
+CV-12462,Sarria,12,0,Jairo Gimenez
+CV-12462,Sarria,15,0,Jairo Gimenez
+CV-54376,Ave Sucre,10,0,Alberto Leon
+CV-54376,Propatria,13,0,Alberto Leon
+CV-54377,Ave Sucre,15,0,Alberto Leon
+AC-38901,Altamira,9,0,Carlos Beltran
+AC-38901,Altamira,12,0,Carlos Beltran
+AC-38901,Altamira,15,0,Carlos Beltran
+AC-38901,Chacao,12,0,Carlos Beltran
+AC-38902,Chacao,14,0,Carlos Rodriguez
+AC-38903,Chacao,16,0,Raul Gomez
+AC-38904,Chacao,18,0,Carlos Martinez
+CV-45678,Catia,9,0,Jose Fernandez
+CV-45679,Catia,12,0,Gregorio Fernandez
+CV-45679,Catia,15,0,Gregorio Fernandez
+CV-45680,Catia,8,0,Rafael Miranda
+CV-45680,Catia,10,0,Rafael Miranda
+CV-45685,Catia,12,0,John Elias
+CV-45685,Catia,15,0,John Elias
+CV-45686,Catia,17,0,David Armas
+CV-45687,Catia,11,0,Jose Alvarez
+CV-45688,Catia,9,0,Juan Peralta
+CV-45688,Catia,13,0,Juan Peralta
+CV-45688,Catia,16,0,Juan Peralta
+CV-45691,Catia,12,0,Edgar Chacon
+CV-45692,Catia,9,0,Juan Fuentes
+CV-45694,Catia,10,0,Rey Garcia
+CV-45694,Catia,14,0,Jose Francisco
+CV-45694,Catia,16,0,Jose Francisco
+CV-45694,Catia,19,0,Jose Francisco
+CV-45697,Catia,8,0,Francisco Hurtado
+CV-45698,Catia,8,0,Enrique Munoz
+CV-45699,Catia,10,0,Hebert Hernandez
+CV-45700,Catia,11,0,Julian Ferrer
+CV-45701,Catia,9,0,Julio Rosales
+CV-45702,Catia,10,0,Julian Ferrer
+CV-45703,Catia,11,30,Jose Fernandez
+CV-45704,Catia,9,0,Jose Luis Barrios
+CV-45704,Catia,12,0,Jose Luis Barrios
+CV-45704,Catia,17,0,Jose Luis Barrios
+CV-45707,Catia,8,0,Manuel Mendoza
+CV-45707,Catia,16,30,Manuel Mendoza
+CV-45709,Catia,10,0,William Ruiz
+CV-45709,Catia,13,0,William Ruiz
+CV-45709,Catia,16,30,William Ruiz
+CV-45712,Catia,8,0,Nelson Mendez
+CV-45712,Catia,10,0,Nelson Mendez
+CV-45712,Catia,12,30,Nelson Mendez
+CV-45712,Petare,9,0,Nelson Mendez
+CV-45712,Petare,13,0,Nelson Mendez
+CV-45712,Petare,17,0,Nelson Mendez
+AA-45718,Petare,6,0,Samuel Farrias
+AA-45718,Petare,8,0,Samuel Farrias
+AA-45718,Petare,12,0,Samuel Farrias
+CV-45721,Santa Rosa,7,30,Antonio Caceres
+CV-45721,Santa Rosa,12,0,Antonio Caceres
+CV-45721,Santa Rosa,14,30,Antonio Caceres
+CV-45724,Santa Rosa,9,0,Joao Espinoza
+CV-45724,Santa Rosa,13,0,Joao Espinoza
+CV-45724,Cumbres,8,0,Alfredo Ortega
+CV-45724,Cumbres,10,0,Alfredo Ortega
+CV-45724,Cumbres,12,30,Alfredo Ortega
+CV-45724,Cumbres,15,0,Alfredo Ortega
+CV-45728,Cumbres,17,20,Armando Contreras
+CV-45729,Cumbres,12,0,Armando Contreras
+CV-45730,Cumbres,9,0,Armando Contreras
+CE-45771,Mesetas,8,0,Bernie Rangel
+CE-45771,Mesetas,10,30,Bernie Rangel
+CE-45771,Mesetas,13,0,Bernie Rangel
+CE-45771,Mesetas,15,0,Bernie Rangel
